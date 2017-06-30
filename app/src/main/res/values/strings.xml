@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CamClick</string>
+    <string name="camera_button">Take a Picture</string>
+</resources>
